@@ -1,0 +1,17 @@
+.navbarActive {
+    background-color: blue;
+    color: white;
+
+}
+
+.custom-icon {
+    padding: 40px 8px;
+    color: white;
+    font-size: 22px;
+}
+
+.nav-style {
+    text-decoration: none;
+    font-size: 22px;
+    color: white
+}
